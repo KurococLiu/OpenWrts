@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  OPNAME: 'R68S、R2S、R4S、R5C、R5S、OPiR1Plus'
+  OPNAME: 'R68S'
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default

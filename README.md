@@ -100,12 +100,12 @@
 
 ## 自带插件
 🍕 默认插件
-- PassWall2 / SSR Plus / OpenClash
+- ~~PassWall2 / SSR Plus / ~~OpenClash
 - AdGuard Home
-- Mentohust
+- ~~Mentohust~~
 - ~~luci-app-vssr~~
 - luci-adbyby-plus
-- luci-app-unblockmusic
+- ~~luci-app-unblockmusic~~
 - luci-app-ddns
 - luci-app-pushbot (全能推送)
 - luci-app-onliner
